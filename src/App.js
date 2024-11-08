@@ -123,7 +123,7 @@ function App() {
         <button onClick={() => postUser(gainId)}>post</button>
         </section>
       </div>
-    
+      <img src="https://nexwebsites.com/images/blog/api.png" alt="" />
     </div>
     );
 }

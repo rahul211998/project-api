@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-image: url("https://nexwebsites.com/images/blog/api.png");
+  background-repeat: no-repeat;
+  background-color: #cba84f;
+  height: 100vh;
+  background-position:left;
 }
 
 .App-logo {
